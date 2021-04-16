@@ -1,3 +1,3 @@
 Hello!
 
-This is a Codecademy Git tutorial.
+This is a Codecademy Git tutorial!
